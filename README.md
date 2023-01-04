@@ -2,7 +2,7 @@
 Carleton University Inline Professor-Ratings Support Page
 
 ## This is the home of all support and issue tracking
-- If you have na **issue** with your extension please log it within the issues tab with the bug tag
+- If you have na **issue** with your extension please log it within the issues tab with the issue tag
 - Suggestions can be logged under issues with the suggestion tag
 - Comments can be logged under issues with the suggestion tag
 - For security issues please contact developers directly at the contact info below
